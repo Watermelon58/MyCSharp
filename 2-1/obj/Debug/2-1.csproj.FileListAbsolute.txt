@@ -1,0 +1,7 @@
+D:\study\Xx code\homework\Homework2\2-1\bin\Debug\2-1.exe.config
+D:\study\Xx code\homework\Homework2\2-1\bin\Debug\2-1.exe
+D:\study\Xx code\homework\Homework2\2-1\bin\Debug\2-1.pdb
+D:\study\Xx code\homework\Homework2\2-1\obj\Debug\2-1.csprojAssemblyReference.cache
+D:\study\Xx code\homework\Homework2\2-1\obj\Debug\2-1.csproj.CoreCompileInputs.cache
+D:\study\Xx code\homework\Homework2\2-1\obj\Debug\2-1.exe
+D:\study\Xx code\homework\Homework2\2-1\obj\Debug\2-1.pdb
