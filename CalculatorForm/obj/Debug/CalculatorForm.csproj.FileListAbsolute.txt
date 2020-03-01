@@ -1,0 +1,10 @@
+D:\study\Xx code\homework\Homework1\CalculatorForm\bin\Debug\CalculatorForm.exe.config
+D:\study\Xx code\homework\Homework1\CalculatorForm\bin\Debug\CalculatorForm.exe
+D:\study\Xx code\homework\Homework1\CalculatorForm\bin\Debug\CalculatorForm.pdb
+D:\study\Xx code\homework\Homework1\CalculatorForm\obj\Debug\CalculatorForm.csprojAssemblyReference.cache
+D:\study\Xx code\homework\Homework1\CalculatorForm\obj\Debug\CalculatorForm.Form1.resources
+D:\study\Xx code\homework\Homework1\CalculatorForm\obj\Debug\CalculatorForm.Properties.Resources.resources
+D:\study\Xx code\homework\Homework1\CalculatorForm\obj\Debug\CalculatorForm.csproj.GenerateResource.cache
+D:\study\Xx code\homework\Homework1\CalculatorForm\obj\Debug\CalculatorForm.csproj.CoreCompileInputs.cache
+D:\study\Xx code\homework\Homework1\CalculatorForm\obj\Debug\CalculatorForm.exe
+D:\study\Xx code\homework\Homework1\CalculatorForm\obj\Debug\CalculatorForm.pdb
